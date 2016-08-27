@@ -5,6 +5,6 @@ download directory
 Start web server
 go run server.go
 
-run script
+go run script
 
 go run getData.go
