@@ -1,5 +1,5 @@
 # json-csv
-Multi directional converter json-csv
+Multi directional converter json-csv in golang
 
 download directory
 Start web server
